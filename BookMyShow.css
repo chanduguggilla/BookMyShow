@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.image{
+    height: 60px;
+    width:160px;
+    padding:5px;
+}
+.image2{
+    height: 79px;
+    width:170px;
+    padding:5px;
+    border-radius: 45px;
+}
+.nav{
+    text-align: right;
+}
+#navitem1{
+    font-family: 'Candara';
+    font-weight: 500;
+    color:black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#navitem2{
+    font-family: 'Candara';
+    font-weight: 500;
+    color:black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#navitem3{
+    font-family: 'Candara';
+    font-weight: 500;
+    color:black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#navitem4{
+    font-family: 'Candara';
+    font-weight: 500;
+    color:black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.bannering{
+    background-image: url("https://wallpaperaccess.com/full/3988284.jpg");
+    height:100vh;
+    background-size: cover;
+}
+.bg-clr{
+    background-color: white;
+}
+.main-heading{
+    color:red;
+    font-size:35px;
+    font-family: 'Candara';
+    font-weight: 700;
+    padding-top: 10px;
+    
+}
+.sub-heading{
+    color:red;
+    font-size:26px;
+    font-family: 'Candara';
+    font-weight: 700;
+    padding-top: 10px;
+}
+.mainbutton{
+    color:white;
+    background-color: red;
+    font-family: 'Candara';
+    font-weight: 700;
+    width:130px;
+    height:45px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+.subbutton{
+    color:red;
+    background-color: transparent;
+    font-family: 'Candara';
+    font-weight: 700;
+    width:130px;
+    height:45px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:black;
+    margin-top: 10px;
+    border-radius: 8px;
+    margin-right:10px;
+    margin-bottom: 15px;
+}
+.aboutus{
+    background-color: red;
+    text-align: center;
+}
+.aboutus-heading{
+    color:white;
+    font-size:35px;
+    font-family: 'Candara';
+    font-weight: 700;
+}
+.aboutus-description{
+    color:white;
+    font-size:25px;
+    font-family: 'Candara';
+    font-weight: 500;
+}
+.aboutus-card{
+    background-color:white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius:16px;
+}
+.aboutus-image{
+    height: 100px;
+    width: 170px;
+}
+.aboutus-card-title{
+    color:#323f4b;
+    font-size:30px;
+    font-family: 'Candara';
+    font-weight: 700;
+}
+.aboutus-card-desc{
+    color:#323f4b;
+    font-size:20px;
+    font-family: 'Candara';
+    font-weight: 500;
+}
+.aboutus-image2{
+    height: 100px;
+    width: 100px;
+}
+.aboutus-image3{
+    height: 100px;
+    width: 100px;
+}
+.offers{
+    font-weight: 600;
+    font-style: italic;
+    color: red;
+}
+.explore-movie{
+    background-color:  red;
+    text-align: center;
+}
+.Explore-heading{
+    font-family: 'candara';
+    font-weight: 700;
+    font-size:35px;
+    color:white;
+    padding-bottom: 10px;
+}
+.Movies-images{
+    height: 300px;
+    width:200px;
+    border-radius: 16px;
+
+}
+.Genre{
+    font-family: 'candara';
+    font-weight: 700;
+    font-size:35px;
+    color:black;
+    margin-top: 24px;
+}
+.movies-link{
+    font-family: 'candara';
+    font-weight: 500;
+    font-size:20px;
+    margin-top: 10px;
+    color:blue;
+}
+.movie-list-card{
+    background-color: white;
+    border-radius: 16px;
+    
+}
+.Bookings-section {
+    background-color: #f9fbfe;
+}
+.Booking-section-img {
+    width: 250px;
+    border-radius: 14px;
+    
+}
+.Booking-section-heading {
+    font-family: "candara";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.Booking-section-description {
+    color: #5a7184;
+    font-family: "Candara";
+    font-size: 24px;
+}
+.custom-button {
+    color:black;
+    background-image:linear-gradient(#d0b200,#a58d00);
+    font-family: 'Candara';
+    font-weight: 700;
+    width:130px;
+    height:45px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.payment-section-img {
+    width: 320px;
+}
+.payment-section-heading {
+    font-family: "candara";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.payment-section-description {
+    color: #5a7184;
+    font-family: "candara";
+    font-size: 22px;
+}
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+.thanking-customers-section {
+    background-image:radial-gradient(#fff8db,#fae38c);
+}
+.thanking-customers-section-heading {
+    font-family: "candara";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "candara";
+    font-size: 25px;
+}
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+.thanking-customers-section-popup{
+    color:#d0b200;
+    font-family:'candara';
+    font-size:25px;
+    font-weight:700;
+}
+.follow-us-section {
+    background-color: white;
+}
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "candara";
+    font-size: 28px;
+    font-weight: 700;
+}
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+.footer-section {
+    background-color: #0d2436;
+}
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "candara";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.footer-section-address {
+    color: #959ead;
+    font-family: "candara";
+    font-size: 14px;
+}
+.back-button {
+    color:white;
+    background-color:black;
+    font-family: 'Candara';
+    font-weight: 700;
+    width:130px;
+    height:45px;
+    border-width: 0px;
+    border-radius: 8px;
+}
